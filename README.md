@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @Sagarika-Singh-99
-- 🌱 I’m currently doing Master's in AI from RIT 
+-  ([LinkedIn](https://www.linkedin.com/in/sagarika-singh-938aa11bb/))
+-  ([Google Scholar](https://scholar.google.com/citations?user=rKWm70MAAAAJ&hl=en&oi=ao))
+

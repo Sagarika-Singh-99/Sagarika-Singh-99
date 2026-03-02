@@ -10,7 +10,6 @@
 
 - **✈️ Agentic AI Travel Planner** *(Latest — Live App)*
   Full-stack agentic AI app using a **LangGraph ReAct agent (GPT-4o-mini)** that autonomously calls live tools — real-time weather, budget estimation, and Tavily web search — to generate grounded travel itineraries. Built on a 3-tier streaming pipeline (React → Node.js → FastAPI) with end-to-end SSE token streaming. Cuts travel research time by ~80%, delivering a complete itinerary in under 30 seconds.
-  `React` `FastAPI` `LangGraph` `LangChain` `OpenAI` `Tavily` `Node.js`
 
 - **🔬 Capstone: Hybrid Memory-RAG Medical Chatbot**  
   Built a chatbot using Phi-2 LLM with ChromaDB + RAG (BM25, MedCPT, RRF) on a corpus of 216K+ medical samples. Outperformed baselines on MedQuAD (BERTScore F1 = 0.8644).

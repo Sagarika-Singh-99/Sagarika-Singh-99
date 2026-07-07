@@ -15,13 +15,13 @@
   Built a chatbot using Phi-2 LLM with ChromaDB + RAG (BM25, MedCPT, RRF) on a corpus of 216K+ medical samples. Outperformed baselines on MedQuAD (BERTScore F1 = 0.8644).
 
 - **📚 Indonesian Manhwa Translation Pipeline**  
-  Automated translation from Indonesian to English using YOLOv5xu + Tesseract + MarianMT. Achieved F1 = 90.7% (bubble detection), BLEU = 0.27, reducing manual effort by 98%.
+  Automated translation from Indonesian to English using YOLOv5xu + Tesseract + MarianMT. Achieved F1 = 90.7% (bubble detection), BLEU = 0.27, reducing manual effort by 98%. Cited **1+ times**.
 
 - **🌫️ Low Visibility Object Detection**  
   Integrated YOLOv5 with AOD-NetX dehazing. Boosted accuracy in foggy environments by 6.74%.
 
 - **🔐 LLM Security Research**  
-  Co-authored a peer-reviewed paper analyzing prompt injection, jailbreaking, and PII exposure in LLMs. Cited **76+ times**.
+  Co-authored a peer-reviewed paper analyzing prompt injection, jailbreaking, and PII exposure in LLMs. Cited **87+ times**.
 
 ---
 

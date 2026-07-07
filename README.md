@@ -14,9 +14,6 @@
 - **🔬 Capstone: Hybrid Memory-RAG Medical Chatbot**  
   Built a chatbot using Phi-2 LLM with ChromaDB + RAG (BM25, MedCPT, RRF) on a corpus of 216K+ medical samples. Outperformed baselines on MedQuAD (BERTScore F1 = 0.8644).
 
-- **☁️ Financial Q&A RAG Assistant on AWS**  
-  Cloud-native RAG pipeline to analyze SEC 10-K filings — automating ingestion (S3 + Lambda), ETL orchestration (Airflow), and FAISS-based semantic retrieval over SageMaker-hosted LLMs. Accelerated financial insights by 90%.
-
 - **📚 Indonesian Manhwa Translation Pipeline**  
   Automated translation from Indonesian to English using YOLOv5xu + Tesseract + MarianMT. Achieved F1 = 90.7% (bubble detection), BLEU = 0.27, reducing manual effort by 98%.
 
